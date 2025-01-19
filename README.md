@@ -13,8 +13,11 @@
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React Js
 - Tailwind
 - axios
 
-
+## Additions
+- [Tailwind](https://tailwindui.com) for css ui library.
+- [Github pages](https://github.com) for the deployment
