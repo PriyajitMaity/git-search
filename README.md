@@ -1,5 +1,5 @@
 ## Demo
-- [git search](https://priyojeet-zomato-clone.vercel.app/)
+- [git search](https://git-search-455dy6bgk-priyajitmaitys-projects.vercel.app/)
 
 ## Description
 - Zomato clone is a online food ordering platform. This site is build with lots of creative ui. for storing user data mongodb is being used.
