@@ -38,7 +38,7 @@ const App = () => {
       </div>
       <div className="bg- h-2xl w-2xl bg-white m-14 p-8">
         <div>
-          <h1 className="font-serif text-zinc-900 text-[30px] space-x-2 ">Search from the Github</h1>
+          <h1 className="font-serif text-zinc-900 text-[30px] space-x-2 ">Enter github account name</h1>
           <div className="flex my-4">
             <span className="flex border-zinc-400 border-[1px] w-1/2 h-[50px] rounded-lg  active:border-blue-500">
               <input
