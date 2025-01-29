@@ -2,7 +2,7 @@
 - [git search](https://git-search-455dy6bgk-priyajitmaitys-projects.vercel.app/)
 
 ## Description
-
+A input field with searching functionality. you just put the git user name which u want, if available then it shows you
 ## Tech Stack
 - HTML
 - CSS
